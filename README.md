@@ -19,7 +19,7 @@ Vite
 
 JavaScript
 
-Html & Css
+Html & Css.
 
 📷 Screenshots
 ![Screenshot 2025-03-03 184643](https://github.com/user-attachments/assets/61f51109-2d62-456f-b2e7-acb82f13e1e3)
